@@ -1,5 +1,3 @@
-Full Name: Sanni Maryam
-Email Address: Maryamsanni1@yahoo.com
-Slack Username: Maryam Sanni
-Tracks: FrontEnd BackEnd Mobile
-Courses: Python, C+, javascript,html,css,java,nodejs
+Full Name: Sanni Maryam <br> Email Address: Maryamsanni1@yahoo.com <br>
+Slack Username: Maryam Sanni <br> Tracks: FrontEnd BackEnd <br>
+Courses:Python,javascript,html,css,
