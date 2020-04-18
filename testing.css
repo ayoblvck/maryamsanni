@@ -62,7 +62,7 @@ h2 {
     border-spacing: 0px;
     text-align: center;
 }
-
+/*for contact form*/
 input[type=text],
 select,
 textarea {
@@ -103,9 +103,10 @@ input[type=submit]:hover {
     font-size: 30px;
 }
 
-table {
-    width: 50%;
+.cardB table {
+    width: 60%;
     border-collapse: collapse;
+    margin-left: 250px;
 }
 
 .cardB th,
